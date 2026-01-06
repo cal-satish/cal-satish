@@ -9,7 +9,7 @@ I am self-taught passionate **Full Stack Developer** in the making, weaving logi
 - 🌱 **Growth Mindset:** Currently diving deeper into [Modern Frameworks like React/Node.js].
 
 ### 🌍 Find Me Live
-- **Portfolio:** [My-portfolio](http://cal-satish.great-site.net) 🚀
+- **Portfolio:** [Visit-My-portfolio](http://cal-satish.great-site.net) 🚀
 
 ### 🧰 Tech Stack:
 - **Languages:** `C`, `C++`, `Python`, `JavaScript`
